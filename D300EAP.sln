@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D300EAP", "D300EAP\D300EAP.csproj", "{56FE35C6-A329-4FB3-ACD3-32B65AC0A712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56FE35C6-A329-4FB3-ACD3-32B65AC0A712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FE35C6-A329-4FB3-ACD3-32B65AC0A712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FE35C6-A329-4FB3-ACD3-32B65AC0A712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FE35C6-A329-4FB3-ACD3-32B65AC0A712}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A95AB1F8-C6EF-4E40-9338-50DFF0F6F6CD}
+	EndGlobalSection
+EndGlobal
